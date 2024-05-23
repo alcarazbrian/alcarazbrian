@@ -12,7 +12,7 @@ Me considero una persona positiva, proactiva, responsable, detallista, con inici
 
 <br/>
 
-<img align="left" width="250" height="300" src="https://github.com/alcarazbrian/alcarazbrian/assets/88253226/e24545c1-a942-40db-be07-edb45073a85f">
+<img align="left" max-width="100%" height="300" src="https://github.com/alcarazbrian/alcarazbrian/assets/88253226/e24545c1-a942-40db-be07-edb45073a85f">
     
 
 
