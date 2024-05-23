@@ -5,6 +5,9 @@
 <h3 align="left">
 Soy estudiante de la Tecnicatura Universitaria en Ciberseguridad, actualmente curso el primer cuatrimestre. Además tengo el 75% de la Tecnicatura Superior en Desarrollo de Software en el cual desarrolle amplia experiencia en HTML, CSS, JavaScript, Bootstrap, React, WordPress, Java, PHP y MySQL.
 </h3>
+<h3 align="left">
+Me considero una persona positiva, proactiva, responsable, detallista, con iniciativa, autoexigente. Estoy constantemente aprendiendo nuevas habilidades y tecnologías, siempre dispuesto a mejorar.
+</h3>
     
     
 
