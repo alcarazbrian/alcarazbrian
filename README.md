@@ -2,7 +2,7 @@
 
 <div style="overflow: auto;">
     <div style="float: left; width: 50%;">
-        <h3>
+        <h3 align="left">
             Soy estudiante de la Tecnicatura Universitaria en Ciberseguridad, actualmente curso el primer cuatrimestre. Además tengo el 75% de la Tecnicatura Superior en Desarrollo de Software en el cual desarrolle amplia experiencia en HTML, CSS, JavaScript, Bootstrap, React, WordPress, Java, PHP y MySQL.
         </h3>
     </div>
