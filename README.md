@@ -4,7 +4,5 @@
     <h3 style="float: left; width: 50%;">
         Soy estudiante de la Tecnicatura Universitaria en Ciberseguridad, actualmente curso el primer cuatrimestre. Además tengo el 75% de la Tecnicatura Superior en Desarrollo de Software en el cual desarrolle amplia experiencia en HTML, CSS, JavaScript, Bootstrap, React, WordPress, Java, PHP y MySQL.
     </h3>
-    <div style="float: right; width: 50%;">
-        <img src="![brian3](https://github.com/alcarazbrian/alcarazbrian/assets/88253226/7e3d0fc2-6e20-4f3d-bab4-d82f571eee76)" alt="Texto alternativo">
-    </div>
+    
 </div>
