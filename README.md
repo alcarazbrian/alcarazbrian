@@ -7,7 +7,7 @@
 
   <source media="(max-width: 768px)" srcset="https://github.com/alcarazbrian/alcarazbrian/assets/88253226/9dbde356-2c87-4234-86cb-9b3378606635">
 
-  <img align="right" src="https://github.com/alcarazbrian/alcarazbrian/assets/88253226/9dbde356-2c87-4234-86cb-9b3378606635" alt="brian3" style="max-width: 100%; height: 200px;">
+  <img align="right" src="https://github.com/alcarazbrian/alcarazbrian/assets/88253226/9dbde356-2c87-4234-86cb-9b3378606635" alt="brian3" style="width: 50%; height: 200px;">
 
 </picture>
 
