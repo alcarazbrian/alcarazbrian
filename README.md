@@ -17,7 +17,7 @@ Me considero una persona positiva, proactiva, responsable, detallista, con inici
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,astro,wordpress,java,php,mysql,python,photoshop&perline=4)](https://alcarazbrian.com)
 
 <br/>
-<br/>
+
 <br/>
 
 > [!NOTE]  
