@@ -13,7 +13,10 @@ Me considero una persona positiva, proactiva, responsable, detallista, con inici
 <br/>
 
 <img align="left" max-width="100%" style="height: 35vh;" src="https://github.com/alcarazbrian/alcarazbrian/assets/88253226/e24545c1-a942-40db-be07-edb45073a85f">
-<h2 align="right"> Habilidades Técnicas </h2>
+
+<br/>
+
+<h2 align="left"> Habilidades Técnicas </h2>
     
 
 
