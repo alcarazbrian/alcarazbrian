@@ -7,7 +7,7 @@
         </h3>
     </div>
     <div style="float: right; width: 50%;">
-        <img src="https://github.com/alcarazbrian/alcarazbrian/assets/88253226/9dbde356-2c87-4234-86cb-9b3378606635" alt="brian3" style="max-width: 100%; height: auto;">
+        <img src="https://github.com/alcarazbrian/alcarazbrian/assets/88253226/9dbde356-2c87-4234-86cb-9b3378606635" alt="brian3" style="max-width: 100%; height: 250px;">
     </div>
 </div>
 
