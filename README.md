@@ -20,7 +20,7 @@ Me considero una persona positiva, proactiva, responsable, detallista, con inici
 <br/>
 <br/>
 
-> [!NOTA]  
+> [!NOTE]  
 > Contactame por [LinkedIn](https://www.linkedin.com/in/alcarazbrian/) <br/>
 > Podes ver mi Portfolio Web [Aquí](https://alcarazbrian.com)
 
