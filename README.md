@@ -4,10 +4,16 @@
 <img align="right" src="https://github.com/alcarazbrian/alcarazbrian/assets/88253226/9dbde356-2c87-4234-86cb-9b3378606635" alt="brian3" style="max-width: 100%; height: 23vh;">
 
 <h3 align="left">
-Soy estudiante de la Tecnicatura Universitaria en Ciberseguridad, actualmente curso el primer cuatrimestre. Además tengo el 75% de la Tecnicatura Superior en Desarrollo de Software en el cual desarrolle amplia experiencia en HTML, CSS, JavaScript, Bootstrap, React, WordPress, Java, PHP y MySQL.
+Actualmente, soy estudiante de la Tecnicatura Universitaria en Ciberseguridad, cursando el primer cuatrimestre. También tengo un 75% completado en la Tecnicatura Superior en Desarrollo de Software, donde he adquirido una amplia experiencia en diversas tecnologías y lenguajes de programación, incluyendo HTML, CSS, JavaScript, Bootstrap, React, WordPress, Java, Python, PHP y MySQL.
 </h3>
 <h3 align="left">
-Me considero una persona positiva, proactiva, responsable, detallista, con iniciativa, autoexigente. Estoy constantemente aprendiendo nuevas habilidades y tecnologías, siempre dispuesto a mejorar.
+Me considero una persona positiva, proactiva y responsable, con una atención meticulosa a los detalles y una fuerte iniciativa. Mi enfoque en la autoexigencia y el aprendizaje continuo me impulsa a siempre estar en busca de nuevas habilidades y tecnologías que me permitan mejorar tanto personal como profesionalmente.
+</h3>
+<h3 align="left">
+Mi objetivo es aplicar mis conocimientos y habilidades en proyectos desafiantes que me permitan crecer y contribuir significativamente. Estoy entusiasmado por explorar nuevas oportunidades laborales y establecer conexiones profesionales en los campos de la ciberseguridad y el desarrollo de software.
+</h3>
+<h3 align="left">
+Si compartís intereses similares o conoces alguna oportunidad que creas que pueda ser adecuada para mí, ¡no dudes en contactarme!
 </h3>
 
 
@@ -18,11 +24,12 @@ Me considero una persona positiva, proactiva, responsable, detallista, con inici
 
 <br/>
 
+### Contactame
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alcarazbrian/)
+### Portfolio Web
+[![alcarazbrian.me](https://img.shields.io/badge/alcarazbrian.me%20-000000?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/alcarazbrian/)
+
 <br/>
 
 > [!NOTE]  
-> Contactame por [LinkedIn](https://www.linkedin.com/in/alcarazbrian/) <br/>
-> Podes ver mi Portfolio Web [Aquí](https://alcarazbrian.com)
-
-
-
+> You can read the README.md in English here
