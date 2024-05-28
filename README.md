@@ -28,4 +28,4 @@ Si compartís intereses similares o conoces alguna oportunidad que creas que pue
 <br/>
 
 > [!NOTE]  
-> You can read the README.md in English here
+> You can read the README.md in English version [here](https://www.linkedin.com/in/alcarazbrian/)
