@@ -23,7 +23,6 @@ Si compartís intereses similares o conoces alguna oportunidad que creas que pue
  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,astro,wordpress,java,php,mysql,python,photoshop&perline=4)]()
 
 <br/>
-
 ### Contactame
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alcarazbrian/)
 ### Portfolio Web
