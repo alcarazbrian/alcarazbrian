@@ -28,4 +28,4 @@ If you share similar interests or know of any opportunities that you think might
 <br/>
 
 > [!NOTE]  
-> Podes leer el README.md en version español [acá]()
+> Podes leer el README.md en version español [acá](https://github.com/alcarazbrian/alcarazbrian/blob/main/README.md)
