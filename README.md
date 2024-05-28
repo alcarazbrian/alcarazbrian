@@ -10,7 +10,7 @@ Actualmente, soy estudiante de la Tecnicatura Universitaria en Ciberseguridad, c
 Mi objetivo es aplicar mis conocimientos y habilidades en proyectos desafiantes que me permitan crecer y contribuir significativamente. Estoy entusiasmado por explorar nuevas oportunidades laborales y establecer conexiones profesionales en los campos de la ciberseguridad y el desarrollo de software.
 </h3>
 <h3 align="left">
-Si compartís intereses similares o conoces alguna oportunidad que creas que pueda ser adecuada para mí, ¡no dudes en contactarme!fghfgfghfghfgfgh
+Si compartís intereses similares o conoces alguna oportunidad que creas que pueda ser adecuada para mí, ¡no dudes en contactarme!
 </h3>
 
 
