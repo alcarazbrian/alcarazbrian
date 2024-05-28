@@ -7,9 +7,6 @@
 Actualmente, soy estudiante de la Tecnicatura Universitaria en Ciberseguridad, cursando el primer cuatrimestre. También tengo un 75% completado en la Tecnicatura Superior en Desarrollo de Software, donde he adquirido una amplia experiencia en diversas tecnologías y lenguajes de programación, incluyendo HTML, CSS, JavaScript, Bootstrap, React, WordPress, Java, Python, PHP y MySQL.
 </h3>
 <h3 align="left">
-Me considero una persona positiva, proactiva y responsable, con una atención meticulosa a los detalles y una fuerte iniciativa. Mi enfoque en la autoexigencia y el aprendizaje continuo me impulsa a siempre estar en busca de nuevas habilidades y tecnologías que me permitan mejorar tanto personal como profesionalmente.
-</h3>
-<h3 align="left">
 Mi objetivo es aplicar mis conocimientos y habilidades en proyectos desafiantes que me permitan crecer y contribuir significativamente. Estoy entusiasmado por explorar nuevas oportunidades laborales y establecer conexiones profesionales en los campos de la ciberseguridad y el desarrollo de software.
 </h3>
 <h3 align="left">
