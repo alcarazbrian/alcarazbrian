@@ -1,4 +1,4 @@
-![banner-github-4](https://github.com/alcarazbrian/alcarazbrian/assets/88253226/4486444d-c39e-408b-bba5-4861b309661c)
+![Banner Github](https://github.com/user-attachments/assets/3b4b4ede-1774-4476-a967-67f20bde448a)
 
 
 <img align="right" src="https://github.com/alcarazbrian/alcarazbrian/assets/88253226/9dbde356-2c87-4234-86cb-9b3378606635" alt="brian3" style="max-width: 100%; height: 23vh;">
