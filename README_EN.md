@@ -20,11 +20,11 @@ If you share similar interests or know of any opportunities that you think might
  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,astro,wordpress,java,php,mysql,python,photoshop&perline=4)]()<br/>
 
 
-### Contact
+## Do not hesitate to contact me!
+### LinkedIn
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alcarazbrian/)
 ### Web Portfolio
-[![alcarazbrian.me](https://img.shields.io/badge/alcarazbrian.me%20-000000?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/alcarazbrian/)
-
+[![alcarazbrian.netlify.app](https://img.shields.io/badge/alcarazbrian.netlify.app%20-000000?style=for-the-badge&logoColor=white)](https://alcarazbrian.netlify.app/)
 <br/>
 
 > [!NOTE]  
