@@ -21,8 +21,7 @@ If you believe I can add value to your team or project, feel free to reach out!
 <h2 align="left"> Skills </h2>
 <img align="left" style="max-width: 100%; height: 26vh;" src="https://github.com/alcarazbrian/alcarazbrian/assets/88253226/e24545c1-a942-40db-be07-edb45073a85f">
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,astro,wordpress,java,php,mysql,python,photoshop&perline=4)]()<br/>
-
+ [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,bootstrap,react,astro,express,wordpress,mongodb,php,mysql,cs,java,python,godot&perline=4)]()<br/>
 
 ## Do not hesitate to contact me!
 ### LinkedIn
