@@ -23,7 +23,7 @@ If you believe I can add value to your team or project, feel free to reach out!
 
  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,bootstrap,react,astro,express,wordpress,mongodb,php,mysql,cs,java,python,godot&perline=4)]()<br/>
 
-## Do not hesitate to contact me!
+## Feel free to contact me!
 ### LinkedIn
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alcarazbrian/)
 ### Web Portfolio
