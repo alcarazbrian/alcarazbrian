@@ -4,14 +4,18 @@
 <img align="right" src="https://github.com/alcarazbrian/alcarazbrian/assets/88253226/9dbde356-2c87-4234-86cb-9b3378606635" alt="brian3" style="max-width: 100%; height: 23vh;">
 
 <h3 align="left">
-Currently, I am a student in the University Technician program in Cybersecurity, attending the first semester. I have also completed 75% of the Advanced Technician program in Software Development, where I have gained extensive experience in various technologies and programming languages, including HTML, CSS, JavaScript, Bootstrap, React, WordPress, Java, Python, PHP, and MySQL.
+🎓 I am a <b>Cybersecurity undergraduate student</b> and currently in the final year of my <b>Advanced Diploma in Software Development</b>. Throughout my academic journey, I have gained experience with various technologies and programming languages, including <b>HTML, CSS, JavaScript, Bootstrap, React, WordPress, Java, Python, PHP, and MySQL</b>.
 </h3>
+
 <h3 align="left">
-My goal is to apply my knowledge and skills to challenging projects that allow me to grow and contribute significantly. I am excited to explore new job opportunities and establish professional connections in the fields of cybersecurity and software development.
+🚀 I am eager to take part in projects that challenge me, allow me to apply my knowledge, learn new technologies, and grow both personally and professionally. I am motivated by dynamic environments, teamwork, and contributing solutions that create real impact.
 </h3>
+
 <h3 align="left">
-If you share similar interests or know of any opportunities that you think might be suitable for me, please do not hesitate to contact me!
+🤝 I am open to building professional connections and exploring new opportunities.  
+If you believe I can add value to your team or project, feel free to reach out!
 </h3>
+
 
 
 <h2 align="left"> Skills </h2>
